@@ -9,7 +9,7 @@
 <tt>python3 assembler.py sample_input/[INPUT_FILENAME.S]</tt><br/>
 <tt>diff sample_input/[INPUT_FILENAME.O] sample_output/[INPUT_FILENAME.O]</tt><br/>
 
-no output -> pass
-any output -> fail 
+no output -> pass <br/>
+any output -> fail <br/>
 
 <strong> DEBUG MODE = 1 </strong> for quick debugging
